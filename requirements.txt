@@ -1,0 +1,4 @@
+funcy==1.13
+pandas==0.25.3
+requests==2.22.0
+
