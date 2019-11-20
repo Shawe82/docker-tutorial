@@ -1,0 +1,2 @@
+# Tutorial Code on how to build small Docker images fast
+You can find the actual code on [medium](https://medium.com/@simon.hawe/how-to-build-slim-docker-images-fast-ecc246d7f4a7). This is just the code referenced in that article.
